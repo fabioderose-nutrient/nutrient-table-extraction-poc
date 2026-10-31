@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Table extraction</title>
+  <link rel="stylesheet" href="/static/styles.css">
+  <script src="https://cdn.cloud.pspdfkit.com/pspdfkit-web@1.24.0/nutrient-viewer.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <h1>Table extraction</h1>
+    <span class="muted small">PDF tables to Excel with the Nutrient Python SDK and a vision model</span>
+    <span class="spacer"></span>
+    <span class="chip" id="model-chip"></span>
+  </header>
+
+  <main class="layout">
+    <aside class="docs">
+      <h2>Documents</h2>
+      <ul id="doc-list" class="doc-list"></ul>
+      <label class="upload">
+        <input type="file" id="upload" accept="application/pdf" hidden>
+        <span>Add a PDF</span>
+      </label>
+      <p class="muted small hint">Samples are fictitious. Their ground truth gives the cell accuracy.</p>
+    </aside>
+
+    <section class="viewer-pane">
+      <div id="viewer"></div>
+      <div id="viewer-empty" class="empty">Select a document.</div>
+    </section>
+
+    <section class="tables-pane">
+      <div class="tables-head">
+        <div>
+          <div id="doc-title" class="doc-title">No document selected</div>
+          <div id="doc-meta" class="muted small"></div>
+        </div>
+        <span class="spacer"></span>
+        <button id="extract-btn" class="secondary" hidden>Extract tables</button>
+        <a id="xlsx-btn" class="button" hidden>Excel (.xlsx)</a>
+        <a id="csv-btn" class="button secondary" hidden>CSV (.zip)</a>
+      </div>
+      <div id="accuracy" class="accuracy" hidden></div>
+      <div id="progress" class="progress" hidden></div>
+      <label class="toggle" id="truth-toggle" hidden><input type="checkbox" id="show-truth"> Mark cells that differ from the ground truth</label>
+      <div id="tables"></div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

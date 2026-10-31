@@ -1,0 +1,7 @@
+nutrient-sdk==1.0.13
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+openai==3.41.0
+openpyxl==3.1.5
+pillow==13.0.0
+numpy==2.5.4

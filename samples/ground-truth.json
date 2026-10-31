@@ -1,0 +1,1058 @@
+{
+ "quarterly-sales-report.pdf": [
+  {
+   "title": "Sales by region",
+   "pages": [
+    1
+   ],
+   "rows": [
+    [
+     "Region",
+     "Orders",
+     "Units",
+     "Revenue (EUR)",
+     "Margin"
+    ],
+    [
+     "North",
+     "412",
+     "9,870",
+     "186,420.50",
+     "18.2%"
+    ],
+    [
+     "South",
+     "377",
+     "8,105",
+     "152,310.00",
+     "17.5%"
+    ],
+    [
+     "East",
+     "298",
+     "6,942",
+     "131,877.25",
+     "19.1%"
+    ],
+    [
+     "West",
+     "351",
+     "7,730",
+     "144,905.75",
+     "16.8%"
+    ],
+    [
+     "Central",
+     "264",
+     "5,418",
+     "101,236.00",
+     "20.3%"
+    ],
+    [
+     "Total",
+     "1,702",
+     "38,065",
+     "716,749.50",
+     "18.3%"
+    ]
+   ],
+   "header_rows": 1
+  },
+  {
+   "title": "Top product lines",
+   "pages": [
+    1
+   ],
+   "rows": [
+    [
+     "Code",
+     "Product line",
+     "Description",
+     "Units",
+     "Revenue (EUR)"
+    ],
+    [
+     "PL-110",
+     "Ergonomic task chairs",
+     "Mesh back, adjustable lumbar support and 4D armrests; five-year warranty on the frame",
+     "1,284",
+     "98,412.00"
+    ],
+    [
+     "PL-204",
+     "Sit-stand desks",
+     "Dual motor frame, 1600 x 800 mm laminate top, memory keypad with four heights",
+     "642",
+     "87,195.50"
+    ],
+    [
+     "PL-031",
+     "Printer paper A4",
+     "80 g/m2, 500 sheets per ream, FSC certified, sold in boxes of five reams",
+     "9,820",
+     "41,244.00"
+    ],
+    [
+     "PL-377",
+     "Monitor arms",
+     "Single and dual arms, gas spring, VESA 75 and 100, cable management clips included",
+     "1,105",
+     "38,675.00"
+    ],
+    [
+     "PL-058",
+     "Storage cabinets",
+     "Steel, lockable, four adjustable shelves; delivered assembled to the ground floor",
+     "213",
+     "34,080.00"
+    ],
+    [
+     "Total",
+     "",
+     "",
+     "13,064",
+     "299,606.50"
+    ]
+   ],
+   "header_rows": 1
+  },
+  {
+   "title": "Headcount and staff cost by department",
+   "pages": [
+    2
+   ],
+   "header_rows": 2,
+   "rows": [
+    [
+     "Department",
+     "Headcount (FTE)",
+     "",
+     "Staff cost (EUR k)",
+     ""
+    ],
+    [
+     "",
+     "2025",
+     "2026",
+     "2025",
+     "2026"
+    ],
+    [
+     "Sales",
+     "42",
+     "46",
+     "2,310",
+     "2,588"
+    ],
+    [
+     "Warehouse and logistics",
+     "57",
+     "61",
+     "2,052",
+     "2,257"
+    ],
+    [
+     "Customer service",
+     "18",
+     "17",
+     "774",
+     "748"
+    ],
+    [
+     "Finance and administration",
+     "11",
+     "12",
+     "682",
+     "761"
+    ],
+    [
+     "IT",
+     "7",
+     "9",
+     "539",
+     "702"
+    ],
+    [
+     "Management",
+     "5",
+     "5",
+     "610",
+     "625"
+    ],
+    [
+     "Total",
+     "140",
+     "150",
+     "6,967",
+     "7,681"
+    ]
+   ]
+  },
+  {
+   "title": "Open orders by status",
+   "pages": [
+    2
+   ],
+   "rows": [
+    [
+     "Status",
+     "Orders",
+     "Value (EUR)",
+     "Oldest order"
+    ],
+    [
+     "Awaiting stock",
+     "23",
+     "41,870.00",
+     "02/09/2026"
+    ],
+    [
+     "Ready to pick",
+     "57",
+     "68,215.40",
+     "26/09/2026"
+    ],
+    [
+     "Picked, not shipped",
+     "14",
+     "19,032.75",
+     "28/09/2026"
+    ],
+    [
+     "On hold (credit)",
+     "6",
+     "12,480.00",
+     "15/08/2026"
+    ],
+    [
+     "Total",
+     "100",
+     "141,598.15",
+     ""
+    ]
+   ],
+   "header_rows": 1
+  }
+ ],
+ "purchase-order-48213.pdf": [
+  {
+   "title": "Order lines",
+   "pages": [
+    1,
+    2
+   ],
+   "rows": [
+    [
+     "Line",
+     "Item code",
+     "Description",
+     "Qty",
+     "Unit price",
+     "Amount"
+    ],
+    [
+     "1",
+     "A4-80-500",
+     "Printer paper A4 80 g/m2, ream of 500",
+     "40",
+     "4.20",
+     "168.00"
+    ],
+    [
+     "2",
+     "A3-80-500",
+     "Printer paper A3 80 g/m2, ream of 500",
+     "10",
+     "8.95",
+     "89.50"
+    ],
+    [
+     "3",
+     "ENV-DL-100",
+     "Envelopes DL, window, box of 100",
+     "25",
+     "6.40",
+     "160.00"
+    ],
+    [
+     "4",
+     "ENV-C4-250",
+     "Envelopes C4, self-seal, box of 250",
+     "6",
+     "24.80",
+     "148.80"
+    ],
+    [
+     "5",
+     "PEN-BLK-50",
+     "Ballpoint pens black, box of 50",
+     "12",
+     "9.75",
+     "117.00"
+    ],
+    [
+     "6",
+     "PEN-BLU-50",
+     "Ballpoint pens blue, box of 50",
+     "8",
+     "9.75",
+     "78.00"
+    ],
+    [
+     "7",
+     "HL-ASST-4",
+     "Highlighters, assorted colours, pack of 4",
+     "30",
+     "3.10",
+     "93.00"
+    ],
+    [
+     "8",
+     "NB-A5-RUL",
+     "Notebook A5 ruled, 80 sheets",
+     "60",
+     "2.35",
+     "141.00"
+    ],
+    [
+     "9",
+     "NB-A4-SQ",
+     "Notebook A4 squared, 96 sheets",
+     "40",
+     "3.60",
+     "144.00"
+    ],
+    [
+     "10",
+     "PI-POST-12",
+     "Sticky notes 76 x 76 mm, pack of 12",
+     "20",
+     "7.90",
+     "158.00"
+    ],
+    [
+     "11",
+     "STP-26-6",
+     "Staples 26/6, box of 5000",
+     "15",
+     "1.85",
+     "27.75"
+    ],
+    [
+     "12",
+     "STPL-DSK",
+     "Desk stapler, 25 sheets",
+     "10",
+     "6.50",
+     "65.00"
+    ],
+    [
+     "13",
+     "PNCH-2H",
+     "Two-hole punch, 30 sheets",
+     "6",
+     "11.20",
+     "67.20"
+    ],
+    [
+     "14",
+     "FLD-SUS-50",
+     "Suspension files A4, box of 50",
+     "8",
+     "28.40",
+     "227.20"
+    ],
+    [
+     "15",
+     "FLD-LVR-80",
+     "Lever arch files A4, 80 mm, black",
+     "48",
+     "2.95",
+     "141.60"
+    ],
+    [
+     "16",
+     "DIV-A4-10",
+     "Dividers A4, 10 tabs, coloured",
+     "50",
+     "1.40",
+     "70.00"
+    ],
+    [
+     "17",
+     "PKT-A4-100",
+     "Punched pockets A4, box of 100",
+     "20",
+     "3.75",
+     "75.00"
+    ],
+    [
+     "18",
+     "TAPE-19-33",
+     "Clear tape 19 mm x 33 m, pack of 8",
+     "15",
+     "4.60",
+     "69.00"
+    ],
+    [
+     "19",
+     "GLUE-40",
+     "Glue stick 40 g",
+     "36",
+     "1.25",
+     "45.00"
+    ],
+    [
+     "20",
+     "SCIS-210",
+     "Scissors 210 mm, soft grip",
+     "12",
+     "3.80",
+     "45.60"
+    ],
+    [
+     "21",
+     "RLR-30",
+     "Ruler 30 cm, transparent",
+     "24",
+     "0.90",
+     "21.60"
+    ],
+    [
+     "22",
+     "CALC-12D",
+     "Desk calculator, 12 digits",
+     "5",
+     "14.90",
+     "74.50"
+    ],
+    [
+     "23",
+     "WB-MRK-4",
+     "Whiteboard markers, pack of 4",
+     "18",
+     "5.20",
+     "93.60"
+    ],
+    [
+     "24",
+     "WB-ERS",
+     "Whiteboard eraser, magnetic",
+     "6",
+     "3.45",
+     "20.70"
+    ],
+    [
+     "25",
+     "BAT-AA-24",
+     "Batteries AA alkaline, pack of 24",
+     "10",
+     "12.60",
+     "126.00"
+    ],
+    [
+     "26",
+     "BAT-AAA-24",
+     "Batteries AAA alkaline, pack of 24",
+     "6",
+     "12.60",
+     "75.60"
+    ],
+    [
+     "27",
+     "LBL-A4-21",
+     "Labels 70 x 42.3 mm, 21 per sheet, 100 sheets",
+     "8",
+     "15.30",
+     "122.40"
+    ],
+    [
+     "28",
+     "TNR-K-201",
+     "Toner cartridge black, 3,000 pages",
+     "9",
+     "68.00",
+     "612.00"
+    ],
+    [
+     "29",
+     "TNR-C-201",
+     "Toner cartridge cyan, 2,300 pages",
+     "4",
+     "74.50",
+     "298.00"
+    ],
+    [
+     "30",
+     "TNR-M-201",
+     "Toner cartridge magenta, 2,300 pages",
+     "4",
+     "74.50",
+     "298.00"
+    ],
+    [
+     "31",
+     "TNR-Y-201",
+     "Toner cartridge yellow, 2,300 pages",
+     "4",
+     "74.50",
+     "298.00"
+    ],
+    [
+     "32",
+     "CLN-WIPE",
+     "Screen cleaning wipes, tub of 100",
+     "12",
+     "4.15",
+     "49.80"
+    ],
+    [
+     "33",
+     "MUG-ASH",
+     "Mug with logo print, 300 ml",
+     "50",
+     "3.20",
+     "160.00"
+    ],
+    [
+     "34",
+     "BIN-RCY-3",
+     "Recycling bin, three compartments",
+     "3",
+     "46.00",
+     "138.00"
+    ],
+    [
+     "35",
+     "CHR-MAT-1",
+     "Chair mat for carpet, 120 x 90 cm",
+     "4",
+     "39.90",
+     "159.60"
+    ],
+    [
+     "36",
+     "LMP-LED",
+     "LED desk lamp, dimmable",
+     "6",
+     "27.50",
+     "165.00"
+    ],
+    [
+     "37",
+     "FAN-DSK",
+     "Desk fan, 30 cm, three speeds",
+     "4",
+     "22.80",
+     "91.20"
+    ],
+    [
+     "38",
+     "HDS-USB",
+     "USB headset with microphone",
+     "10",
+     "18.40",
+     "184.00"
+    ],
+    [
+     "39",
+     "KBD-USB",
+     "Keyboard, wired, UK layout",
+     "8",
+     "12.95",
+     "103.60"
+    ],
+    [
+     "40",
+     "MSE-WL",
+     "Wireless mouse with receiver",
+     "12",
+     "9.60",
+     "115.20"
+    ],
+    [
+     "41",
+     "CBL-HDMI-2",
+     "HDMI cable, 2 m",
+     "15",
+     "4.30",
+     "64.50"
+    ],
+    [
+     "42",
+     "EXT-4W",
+     "Extension lead, 4 sockets, 2 m",
+     "10",
+     "8.75",
+     "87.50"
+    ],
+    [
+     "43",
+     "WTR-CUP-1K",
+     "Paper water cups, box of 1000",
+     "3",
+     "19.90",
+     "59.70"
+    ],
+    [
+     "44",
+     "TEA-BAG-6",
+     "Tea bags, catering pack of 600",
+     "4",
+     "11.25",
+     "45.00"
+    ],
+    [
+     "",
+     "",
+     "Subtotal",
+     "",
+     "",
+     "5,594.15"
+    ],
+    [
+     "",
+     "",
+     "VAT 20%",
+     "",
+     "",
+     "1,118.83"
+    ],
+    [
+     "",
+     "",
+     "Total (EUR)",
+     "",
+     "",
+     "6,712.98"
+    ]
+   ],
+   "header_rows": 1
+  }
+ ],
+ "borderless-cost-statement.pdf": [
+  {
+   "title": "Project cost statement",
+   "pages": [
+    1
+   ],
+   "rows": [
+    [
+     "Cost item",
+     "Budget",
+     "Actual",
+     "Variance"
+    ],
+    [
+     "Labour",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Joinery and fit-out",
+     "48,500.00",
+     "51,240.00",
+     "-2,740.00"
+    ],
+    [
+     "Electrical installation",
+     "22,000.00",
+     "20,875.50",
+     "1,124.50"
+    ],
+    [
+     "Decoration",
+     "9,600.00",
+     "10,110.00",
+     "-510.00"
+    ],
+    [
+     "Labour subtotal",
+     "80,100.00",
+     "82,225.50",
+     "-2,125.50"
+    ],
+    [
+     "Materials",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Flooring",
+     "14,250.00",
+     "13,980.00",
+     "270.00"
+    ],
+    [
+     "Lighting fixtures",
+     "11,400.00",
+     "12,655.75",
+     "-1,255.75"
+    ],
+    [
+     "Display units",
+     "26,800.00",
+     "25,940.00",
+     "860.00"
+    ],
+    [
+     "Materials subtotal",
+     "52,450.00",
+     "52,575.75",
+     "-125.75"
+    ],
+    [
+     "Other costs",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Design fees",
+     "7,500.00",
+     "7,500.00",
+     "0.00"
+    ],
+    [
+     "Skip hire and waste",
+     "1,800.00",
+     "2,145.00",
+     "-345.00"
+    ],
+    [
+     "Other costs subtotal",
+     "9,300.00",
+     "9,645.00",
+     "-345.00"
+    ],
+    [
+     "Total project cost",
+     "141,850.00",
+     "144,446.25",
+     "-2,596.25"
+    ]
+   ],
+   "header_rows": 1
+  }
+ ],
+ "scanned-delivery-schedule.pdf": [
+  {
+   "title": "Delivery schedule - week 44",
+   "pages": [
+    1
+   ],
+   "rows": [
+    [
+     "Delivery note",
+     "Date",
+     "Customer",
+     "Pallets",
+     "Weight (kg)",
+     "Status"
+    ],
+    [
+     "DN-70411",
+     "26/10/2026",
+     "Kestrel Lane Dental Group",
+     "4",
+     "612",
+     "Delivered"
+    ],
+    [
+     "DN-70412",
+     "26/10/2026",
+     "Orchard Row Primary School",
+     "2",
+     "288",
+     "Delivered"
+    ],
+    [
+     "DN-70418",
+     "27/10/2026",
+     "Pennywell Veterinary Practice",
+     "1",
+     "96",
+     "Delivered"
+    ],
+    [
+     "DN-70423",
+     "27/10/2026",
+     "Brightmoor Housing Trust",
+     "6",
+     "1,005",
+     "Delivered"
+    ],
+    [
+     "DN-70427",
+     "28/10/2026",
+     "Calder Street Library",
+     "3",
+     "431",
+     "Part delivered"
+    ],
+    [
+     "DN-70430",
+     "28/10/2026",
+     "Thornbury Accountants LLP",
+     "1",
+     "74",
+     "Delivered"
+    ],
+    [
+     "DN-70436",
+     "29/10/2026",
+     "Westfold Community Centre",
+     "2",
+     "352",
+     "Delivered"
+    ],
+    [
+     "DN-70441",
+     "30/10/2026",
+     "Redcliffe Physiotherapy",
+     "1",
+     "118",
+     "Rescheduled"
+    ],
+    [
+     "DN-70445",
+     "30/10/2026",
+     "Lowmoor Business Park Ltd",
+     "5",
+     "870",
+     "Delivered"
+    ],
+    [
+     "DN-70452",
+     "31/10/2026",
+     "St Aldric's Medical Centre",
+     "2",
+     "264",
+     "Booked"
+    ],
+    [
+     "Total",
+     "",
+     "",
+     "27",
+     "4,110",
+     ""
+    ]
+   ],
+   "header_rows": 1
+  }
+ ],
+ "scanned-stock-count.pdf": [
+  {
+   "title": "Stock count - aisle C",
+   "pages": [
+    1
+   ],
+   "rows": [
+    [
+     "Bin",
+     "SKU",
+     "Description",
+     "Unit",
+     "System qty",
+     "Counted",
+     "Difference",
+     "Checked"
+    ],
+    [
+     "C-01-1",
+     "A4-80-500",
+     "Printer paper A4 80 g/m2",
+     "ream",
+     "1,240",
+     "1,236",
+     "-4",
+     "yes"
+    ],
+    [
+     "C-01-2",
+     "A3-80-500",
+     "Printer paper A3 80 g/m2",
+     "ream",
+     "310",
+     "310",
+     "0",
+     ""
+    ],
+    [
+     "C-01-3",
+     "ENV-DL-100",
+     "Envelopes DL, window",
+     "box",
+     "188",
+     "191",
+     "+3",
+     "yes"
+    ],
+    [
+     "C-02-1",
+     "ENV-C4-250",
+     "Envelopes C4, self-seal",
+     "box",
+     "64",
+     "64",
+     "0",
+     ""
+    ],
+    [
+     "C-02-2",
+     "PEN-BLK-50",
+     "Ballpoint pens black",
+     "box",
+     "97",
+     "95",
+     "-2",
+     "yes"
+    ],
+    [
+     "C-02-3",
+     "PEN-BLU-50",
+     "Ballpoint pens blue",
+     "box",
+     "83",
+     "83",
+     "0",
+     ""
+    ],
+    [
+     "C-03-1",
+     "HL-ASST-4",
+     "Highlighters, assorted",
+     "pack",
+     "226",
+     "220",
+     "-6",
+     "yes"
+    ],
+    [
+     "C-03-2",
+     "NB-A5-RUL",
+     "Notebook A5 ruled",
+     "each",
+     "540",
+     "548",
+     "+8",
+     "yes"
+    ],
+    [
+     "C-03-3",
+     "NB-A4-SQ",
+     "Notebook A4 squared",
+     "each",
+     "415",
+     "415",
+     "0",
+     ""
+    ],
+    [
+     "C-04-1",
+     "PI-POST-12",
+     "Sticky notes 76 x 76 mm",
+     "pack",
+     "132",
+     "129",
+     "-3",
+     "yes"
+    ],
+    [
+     "C-04-2",
+     "STP-26-6",
+     "Staples 26/6",
+     "box",
+     "305",
+     "305",
+     "0",
+     ""
+    ],
+    [
+     "C-04-3",
+     "FLD-LVR-80",
+     "Lever arch files A4",
+     "each",
+     "612",
+     "600",
+     "-12",
+     "yes"
+    ],
+    [
+     "C-05-1",
+     "DIV-A4-10",
+     "Dividers A4, 10 tabs",
+     "pack",
+     "280",
+     "284",
+     "+4",
+     "yes"
+    ],
+    [
+     "C-05-2",
+     "PKT-A4-100",
+     "Punched pockets A4",
+     "box",
+     "147",
+     "147",
+     "0",
+     ""
+    ],
+    [
+     "C-05-3",
+     "TAPE-19-33",
+     "Clear tape 19 mm",
+     "pack",
+     "96",
+     "91",
+     "-5",
+     "yes"
+    ],
+    [
+     "C-06-1",
+     "GLUE-40",
+     "Glue stick 40 g",
+     "each",
+     "358",
+     "358",
+     "0",
+     ""
+    ],
+    [
+     "C-06-2",
+     "BAT-AA-24",
+     "Batteries AA alkaline",
+     "pack",
+     "72",
+     "70",
+     "-2",
+     "yes"
+    ],
+    [
+     "C-06-3",
+     "LBL-A4-21",
+     "Labels 70 x 42.3 mm",
+     "box",
+     "41",
+     "41",
+     "0",
+     ""
+    ],
+    [
+     "Total",
+     "",
+     "",
+     "",
+     "5,206",
+     "5,187",
+     "-19",
+     ""
+    ]
+   ],
+   "header_rows": 1
+  }
+ ]
+}
